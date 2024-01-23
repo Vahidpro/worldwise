@@ -3,6 +3,7 @@ import Homepage from "./pages/Homepage";
 import Pricing from "./pages/Pricing";
 import Product from "./pages/Product";
 import PageNotFound from "./pages/PageNotFound";
+import Login from "./pages/Login";
 
 function App() {
 	return (
@@ -13,18 +14,22 @@ function App() {
 					element={<Homepage />}
 				/>
 				<Route
-					path="/pricing"
+					path="pricing"
 					element={<Pricing />}
 				/>
 				<Route
-					path="/product"
+					path="product"
 					element={<Product />}
 				/>
+				<Route
+					path="/login"
+					element={<Login />}
+				/>
+				<Route
+					path="*"
+					element={<PageNotFound />}
+				></Route>
 			</Routes>
-			<Routes
-				path="*"
-				element={<PageNotFound />}
-			></Routes>
 		</BrowserRouter>
 	);
 }
