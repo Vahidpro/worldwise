@@ -9,11 +9,11 @@ function CityItem({ city }) {
 			weekday: "long",
 		}).format(new Date(date));
 
-	const { cityName, emoji, date, id } = city;
+	const { cityName, emoji, date, id, position } = city;
 	return (
 		<Link
 			className={styles.cityItem}
-			to={`${id}`}
+			to={`${id}?lat=${position.lat}&lng=${position.lng}`}
 		>
 			<li>
 				<span className={styles.emoji}>{emoji}</span>
