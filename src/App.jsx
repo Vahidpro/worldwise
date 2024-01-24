@@ -9,6 +9,7 @@ import CityList from "./components/CityList";
 import { useEffect, useState } from "react";
 import CountriesList from "./components/CountryList";
 import City from "./components/City";
+import Form from "./components/Form";
 
 const BASE_URL = "http://localhost:9000";
 function App() {
@@ -87,7 +88,7 @@ function App() {
 					/>
 					<Route
 						path="form"
-						element={<p>Form</p>}
+						element={<Form />}
 					/>
 				</Route>
 				<Route
