@@ -6,10 +6,10 @@ import PageNotFound from "./pages/PageNotFound";
 import Login from "./pages/Login";
 import AppLayout from "./pages/AppLayout";
 import CityList from "./components/CityList";
-import CountriesList from "./components/CountryList";
 import City from "./components/City";
 import Form from "./components/Form";
 import { CitiesProvider } from "./contexts/CitiesContext";
+import CountryList from "./components/CountryList";
 
 function App() {
 	return (
@@ -55,7 +55,7 @@ function App() {
 						/>
 						<Route
 							path="countries"
-							element={<CountriesList />}
+							element={<CountryList />}
 						/>
 						<Route
 							path="form"

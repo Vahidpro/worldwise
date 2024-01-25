@@ -1,4 +1,9 @@
 import { createContext, useContext, useEffect, useState } from "react";
+import PropTypes from "prop-types";
+
+CitiesProvider.propTypes = {
+	children: PropTypes.node.isRequired,
+};
 
 const BASE_URL = "http://localhost:9000";
 

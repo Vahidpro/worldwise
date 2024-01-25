@@ -4,7 +4,7 @@ import styles from "./CountryList.module.css";
 import Message from "./Message";
 import Spinner from "./Spinner";
 function CountryList() {
-	const { cities, isLoading } = useCities;
+	const { cities, isLoading } = useCities();
 	if (isLoading) return <Spinner />;
 	if (!cities.length)
 		return (
