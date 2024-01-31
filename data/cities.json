@@ -23,6 +23,66 @@
         "lat": "45.72152152227956",
         "lng": "10.854492187500002"
       }
+    },
+    {
+      "id": "fa92",
+      "cityName": "Adradas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-31T09:46:51.194Z",
+      "notes": "5",
+      "position": {
+        "lat": "41.35845255116235",
+        "lng": "-2.5078531054008995"
+      }
+    },
+    {
+      "id": "db71",
+      "cityName": "Capella",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-31T09:47:28.534Z",
+      "notes": "55",
+      "position": {
+        "lat": "42.164691553955755",
+        "lng": "0.45653622438840197"
+      }
+    },
+    {
+      "id": "cb53",
+      "cityName": "Blesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-31T09:49:01.254Z",
+      "notes": "44",
+      "position": {
+        "lat": "41.11448822017578",
+        "lng": "-0.88011354799052"
+      }
+    },
+    {
+      "id": "d382",
+      "cityName": "Cantavieja",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-31T10:28:42.685Z",
+      "notes": "d",
+      "position": {
+        "lat": "40.53293077169758",
+        "lng": "-0.3103939728781935"
+      }
+    },
+    {
+      "id": "15ce",
+      "cityName": "Narrillos del Rebollar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-31T10:31:44.997Z",
+      "notes": "88",
+      "position": {
+        "lat": "40.67830310515939",
+        "lng": "-4.9461478220939945"
+      }
     }
   ]
 }
