@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,91 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "6f13",
+      "cityName": "Avio",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-01-31T08:50:02.829Z",
+      "notes": "dd",
+      "position": {
+        "lat": "45.72152152227956",
+        "lng": "10.854492187500002"
+      }
+    },
+    {
+      "id": "efdb",
+      "cityName": "Saint-Laurent",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-31T08:54:36.107Z",
+      "notes": "dfsa",
+      "position": {
+        "lat": "46.164614496897094",
+        "lng": "1.9555664062500002"
+      }
+    },
+    {
+      "id": "63c2",
+      "cityName": "Saint-Laurent",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-31T08:54:36.107Z",
+      "notes": "dfsa",
+      "position": {
+        "lat": "46.164614496897094",
+        "lng": "1.9555664062500002"
+      }
+    },
+    {
+      "id": "b5b6",
+      "cityName": "Moulins-le-Carbonnel",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-31T08:54:57.501Z",
+      "notes": "",
+      "position": {
+        "lat": "48.38544219115486",
+        "lng": "0"
+      }
+    },
+    {
+      "id": "9780",
+      "cityName": "Romsey",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-31T08:55:40.028Z",
+      "notes": "dd",
+      "position": {
+        "lat": "51.01375465718821",
+        "lng": "-1.4941406250000002"
+      }
+    },
+    {
+      "id": "8efe",
+      "cityName": "Romsey",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-31T08:55:40.028Z",
+      "notes": "dd",
+      "position": {
+        "lat": "51.01375465718821",
+        "lng": "-1.4941406250000002"
+      }
+    },
+    {
+      "id": "4b4b",
+      "cityName": "Hrytsiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-01-31T09:01:02.324Z",
+      "notes": "ss",
+      "position": {
+        "lat": "49.95121990866204",
+        "lng": "27.24609375"
+      }
     }
   ]
 }
