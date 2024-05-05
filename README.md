@@ -2,6 +2,31 @@
 
 WorldWise is a React application that allows users to log in with fake data and save locations on a map.
 
+## Live Preview
+**For Live Preview:** Use the below information to log in and access the app.
+
+**Username**
+
+```
+jack@example.com
+```
+
+**Password**
+
+```
+qwerty
+```
+
+## Screenshots
+
+| Home Page  | Login |
+| ------------- | ------------- |
+| ![Screenshot 2024-05-05 105242](https://github.com/Vahidpro/worldwise/assets/43805831/acfbfe88-3439-45a8-b704-21b9a419fb76) | ![Screenshot 2024-05-05 104359](https://github.com/Vahidpro/worldwise/assets/43805831/139b3f6b-194e-4dd1-b6c4-a0164074bd4a) |
+
+### Main Page After Login
+
+![Screenshot 2024-05-05 104709](https://github.com/Vahidpro/worldwise/assets/43805831/110e7411-96eb-4aff-9a5c-6c9665ac7dbc)
+
 ## Technologies Used
 
 ### Frontend
